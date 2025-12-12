@@ -33,3 +33,4 @@ Dataset: https://www.kaggle.com/datasets/drahulsingh/list-of-best-selling-ps4-ga
 
 
 ## Description 
+For this project, we took the data from Kaggle about Video Games which included the stats of the top games played. We took this data and we organized everything into an easy to read format for the user and displayed it in the console. Our team chose this data set because it was something majority of us were passionate about. 
