@@ -1,0 +1,4 @@
+Aiello - provided framework for the creation of methods and steps for the process
+Levin - helped with faulty for loops
+Vaishavi's dad - debugged parts of the program 
+Chat GPT - assisted in understanding of .equals
